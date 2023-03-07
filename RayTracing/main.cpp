@@ -70,7 +70,7 @@ int main()
 			//std::cout << ir << ' ' << ig << ' ' << ib << '\n';
 		}
 	}
-	std::cout << "change Test444";
+	std::cout << "change Test555";
 	std::cerr << "\nDone.\n";
 }
 
