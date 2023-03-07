@@ -39,6 +39,7 @@ int main()
 
 	//Render
 
+
 	std::cout << "P3\n" << image_width << ' ' << image_height << "\n255\n";
 
 	for (int j = image_height - 1; j >= 0; --j)
@@ -69,7 +70,7 @@ int main()
 			//std::cout << ir << ' ' << ig << ' ' << ib << '\n';
 		}
 	}
-
+	std::cout << "change Test";
 	std::cerr << "\nDone.\n";
 }
 
